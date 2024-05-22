@@ -1,8 +1,12 @@
 body {
   margin: 0;
   font-family:  'SF Pro Rounded', -apple-system, 'SF Pro Text',
-  'SF UI Text', system-ui, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: #000;
+  'SF UI Text',
+    system-ui,
+    'Helvetica Neue',
+    Helvetica,
+    Arial,
+    sans-serif;
 
 }
 main {
